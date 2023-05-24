@@ -1,1 +1,1 @@
-javascript:var evl,em,expr=prompt('I know where you live.)','');with(Math)try{evl= parseFloat(eval(expr));if(isNaN(evl)) {throwjavascript: Error('Not a number!');}void(prompt ('Result:',evl));}catch(em){alert(em);}
+javascript:var evl,em,expr=prompt('I know where you live.','');with(Math)try{evl= parseFloat(eval(expr));if(isNaN(evl)) {throwjavascript: Error('Not a number!');}void(prompt ('Result: No lie.',evl));}catch(em){alert(em);}
